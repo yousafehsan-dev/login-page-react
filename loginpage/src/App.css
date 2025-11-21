@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bevan:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&display=swap');
+*{
+  margin: 0;
+}
+.container{
+   max-width: 1000px;
+  margin: 0 auto;
+}
+body{
+  font-family: "Bevan", serif;
+}
+.contant p{
+   font-family: "Funnel Display", sans-serif;
+   /* font-weight: 500; */
+   max-width: 90%;
+}
+.contant h1{
+  font-size: 48px;
+  font-weight: 800;
+}
+.main-container{
+  margin-top: 50px;
+}
+  
+ 

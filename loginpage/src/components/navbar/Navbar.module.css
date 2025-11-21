@@ -1,0 +1,18 @@
+nav{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+
+}
+nav ul{
+  display: flex;
+  list-style: none;
+  gap: 30px;
+  font-weight: 500;
+  cursor: pointer;
+  
+}
+nav ul :hover{
+  
+  color: rgb(79, 79, 83);
+}

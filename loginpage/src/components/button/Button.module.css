@@ -1,0 +1,33 @@
+.pre_btn{
+    background-color: rgb(0, 0, 0);
+    padding: 18px 10px;
+    color: white;
+    border-radius: 5px;
+    min-width: 220px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 16px;
+     font-family: "Funnel Display", sans-serif;
+     justify-content: center;
+     cursor: pointer;
+}
+.Outline_btn{ 
+   
+    padding: 18px 10px;
+    color: rgb(0, 0, 0);
+    border-radius: 1px solid black;
+    min-width: 220px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 16px;
+     font-family: "Funnel Display", sans-serif;
+     justify-content: center;
+     cursor: pointer;
+     width: 100;
+}
+.pre_btn:hover{
+    background-color: white;
+    color: black;
+}
